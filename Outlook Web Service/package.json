@@ -1,0 +1,19 @@
+{
+  "name": "outlook-web-service",
+  "version": "1.0.0",
+  "description": "Web service responsible for interfacing between Climate Outlook app and climate databases",
+  "main": "web-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonbmitchusson/Climate-Outlook-Tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonbmitchusson/Climate-Outlook-Tool/issues"
+  },
+  "homepage": "https://github.com/jacksonbmitchusson/Climate-Outlook-Tool#readme"
+}
